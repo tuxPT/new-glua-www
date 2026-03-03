@@ -1,6 +1,8 @@
 ---
 title: Inscrição
 tags: [inscricao, glua]
+sidebar:
+  exclude: true
 date: 2024-09-14
 comments: false
 ---
@@ -15,7 +17,8 @@ Para se inscrever no **GLUA**, basta preencher o formulário abaixo e aguardar p
 
 ### Formulário de inscrição
 
-Se o formulário não estiver a aparecer, pode aceder diretamente [aqui](https://gluacloud.rui2015.me/index.php/apps/forms/s/zYRd2ngYwKXqSK5dDKxexX9M).
+O formulário de inscrição está fechado por agora :(
+<!--Se o formulário não estiver a aparecer, pode aceder diretamente [aqui](https://gluacloud.rui2015.me/index.php/apps/forms/s/zYRd2ngYwKXqSK5dDKxexX9M).
 
 <br>
-<iframe src="https://gluacloud.rui2015.me/index.php/apps/forms/s/zYRd2ngYwKXqSK5dDKxexX9M" width="100%" height="1000" border="0"></iframe>
+<iframe src="https://gluacloud.rui2015.me/index.php/apps/forms/s/zYRd2ngYwKXqSK5dDKxexX9M" width="100%" height="1000" border="0"></iframe> !-->

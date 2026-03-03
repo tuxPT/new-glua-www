@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sessão livre de iniciação ao GIT"
-thumbnail: 'thumbnails/news/git.png'
+thumbnail: 'thumbnails/news/git.jpg'
 date: 2017-10-26
 description: "Informação sobre o evento"
 tags: [estado, máquina]

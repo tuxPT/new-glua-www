@@ -1,5 +1,5 @@
 baseURL: https://glua.ua.pt/
-title: Grupo de Linux da Universidade de Aveiro
+title: GLUA
 
 timeout: "2m"
 enableRobotsTXT: true
@@ -27,6 +27,9 @@ enableInlineShortcodes: true
 languageCode: pt-PT
 
 params:
+  customFonts:
+    - "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+    - "https://fonts.googleapis.com/css2?family=Geo:ital@0;1&display=swap"
   navbar:
     width: wide
     displayTitle: false
@@ -34,8 +37,8 @@ params:
     logo:
       path: img/branding/glua_logo.svg
       dark: img/branding/glua_logo_dark.svg
-      width: 81px
-      height: 38px
+      width: 100px
+      height: 50px
   page:
     width: normal
   footer:
@@ -100,7 +103,7 @@ menu:
     - name: Mirrors ↗
       url: https://glua.ua.pt/mirrors
       weight: 4
-    - name: Inscreve-te
+    - name: Inscricão
       pageRef: /inscricao
       weight: 5
     - name: Sobre Nós
@@ -118,6 +121,32 @@ menu:
       weight: 9
       params:
         button: primary
+  sidebar:
+    - name: Tutoriais
+      pageRef: /tutorials
+      weight: 1
+    - name: Notícias
+      pageRef: /news
+      weight: 2
+    - name: Helpdesk
+      pageRef: /helpdesk
+      weight: 3
+    - name: "Mirrors ↗"
+      url: "https://glua.ua.pt/mirrors"
+      weight: 4
+    - name: Inscricão
+      pageRef: /inscricao
+      weight: 5
+    - name: Sobre Nós
+      pageRef: /about
+      weight: 6
+    - name: FAQ
+      pageRef: /faq
+      weight: 7
+    - name: Área Reservada ↗
+      url: https://gluacloud.rui2015.me
+      weight: 8
+
 
 
     # - name: GitHub

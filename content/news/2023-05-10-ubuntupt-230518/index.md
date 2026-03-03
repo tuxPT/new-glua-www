@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Encontro da Comunidade Ubuntu-PT - Maio 2023"
-thumbnail: 'thumbnails/news/encontro_ubuntu_pt_05_2023.png'
+thumbnail: '/thumbnails/news/encontro_ubuntu_pt_05_2023.png'
 date: 2023-05-10
 author: "André Alves"
 description: "Detalhes e Inscrições para o encontro."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Torneio de SuperTux 2023"
-thumbnail: 'thumbnails/news/torneio_supertux_2023.png'
+thumbnail: 'thumbnails/news/torneio_supertux_2023.jpg'
 date: 2023-02-15
 description: "Detalhes e Inscrições para o torneio."
 tags: [supertux, torneio, social, glua]

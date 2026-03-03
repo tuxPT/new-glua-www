@@ -1,5 +1,5 @@
 ---
-title: Grupo de Linux da Universidade de Aveiro
+title: GLUA
 layout: hextra-home
 ---
 
@@ -8,7 +8,7 @@ layout: hextra-home
   imageLink=""
   imageTitle="Um terminal espetacular!"
 >}}
-<div class="hx-mt-6 hx-mb-6">
+<div class="hx-mt-6 hx-mb-6 title">
 {{< hextra/hero-headline >}}
   Bem-vindo ao Grupo de Linux da Universidade de Aveiro
 {{< /hextra/hero-headline >}}

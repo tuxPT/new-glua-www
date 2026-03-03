@@ -1,15 +1,19 @@
 ---
-title: FAQ
+title: "Frequently Asked Questions" 
+pagetitle: "FAQ"
 tags: [faq, glua]
+sidebar:
+  exclude: true
 date: 2024-09-14
 comments: false
 ---
 
-## Frequently Asked Questions
+<!--REVER ISTO PARA COLOCAR NO FIM--------------------------------
 
-Pode encontrar nesta página algumas das perguntas mais frequentes sobre o **GLUA**.
+Se não encontrar a resposta à sua pergunta, não hesite em contactar-nos através do nosso [e&#x2011;mail](mailto:glua@ua.pt) ou pelo nosso servidor de [discord](https://glua.ua.pt/discord).-->
 
-Se não encontrar a resposta à sua pergunta, não hesite em contactar-nos através do nosso [e&#x2011;mail](mailto:glua@ua.pt) ou pelo nosso servidor de [discord](https://glua.ua.pt/discord).
+
+<div class="faq-container">
 
 {{< details-close title="O que é o GLUA?" >}}
 O **GLUA**, *Grupo de Linux da Universidade de Aveiro*, é um grupo originalmente fundado no dia 9 de março de 2001 com foco em divulgar e promover o **Software Livre e Aberto** (F/OSS), mais nomeadamente soluções baseadas em sistemas GNU/Linux. O grupo é composto maioritariamente por alunos do Departamento de Eletrónica, Telecomunicações e Informática (**DETI**), mas está aberto a todos os que queiram contribuir, seja de que maneira for. No dia 19 de dezembro de 2023, o GLUA tornou-se oficialmente um núcleo da [AETTUA (*Associação de Eletrónica, Telecomunicações e Telemática da Universidade de Aveiro*)](https://aettua.pt/).
@@ -31,6 +35,7 @@ A [**Helpdesk**](/helpdesk) é um serviço de apoio técnico que o **GLUA** disp
 Se pretende colaborar com o **GLUA**, pode fazê-lo de várias maneiras. Pode participar nos eventos organizados pelo grupo, ajudar a divulgar o grupo e o seu trabalho, ou mesmo tornar-se membro do grupo. Para se tornar membro, basta inscrever-se no grupo através do formulário disponível na página de [inscrição](/inscricao).
 {{</ details-close >}}
 
+
 {{< details-close title="Preciso de ter conhecimentos técnicos para me juntar ao GLUA?" >}}
 Nós temos membros de várias áreas e com foco em diferentes tarefas, parte delas não diretamente relacionadas com a componente técnica.
 
@@ -48,3 +53,5 @@ O tempo que dedica ao **GLUA** depende do seu interesse e disponibilidade. Não 
 {{< details-close title="O que é o Linux?" >}}
 **Linux** é um sistema operativo de código aberto, baseado no **Unix**, que foi criado por **Linus Torvalds** em 1991. O **Linux** é um dos sistemas operativos mais utilizados em todo o mundo, sendo utilizado em servidores, computadores pessoais, smartphones, tablets, entre outros dispositivos. O **Linux** é conhecido pela sua estabilidade, segurança e flexibilidade, sendo uma *melhor* alternativa ao **Windows** e ao **macOS**.
 {{</ details-close >}}
+
+</div>

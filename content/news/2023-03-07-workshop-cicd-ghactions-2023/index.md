@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Workshop de CI/CD em GitHub Actions"
-thumbnail: 'thumbnails/news/workshop_cicd_2023.png'
+thumbnail: 'thumbnails/news/workshop_cicd_2023.jpg'
 date: 2023-03-07
 updated: 2023-03-13
 description: "Informações e Inscrição no Workshop"

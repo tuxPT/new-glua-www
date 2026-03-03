@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discord do GLUA"
-thumbnail: 'thumbnails/news/discord.svg'
+thumbnail: 'thumbnails/news/discord.png'
 date: 2022-03-14
 description: "Novo canal oficial de comunicação com o GLUA"
 tags: [discord, glua, notícias, helpdesk, eventos, self-hosting]

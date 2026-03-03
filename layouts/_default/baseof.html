@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-  {{- partial "head.html" . -}}
+  <head>
+    {{- partial "head.html" . -}}
+    <title>{{ if .Params.pagetitle }}{{ .Params.pagetitle }}{{ else }}{{ .Title }}{{ end }}</title>
+  </head>
   <body dir="ltr">
     {{- partial "navbar.html" . -}}
     {{- block "main" . }}{{ end -}}
@@ -10,3 +13,4 @@
   </body>
   {{ partial "scripts.html" . }}
 </html>
+
